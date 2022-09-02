@@ -66,7 +66,7 @@ yarn
 
 ### Get started with Material ui
 ```sh
-npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @emotion/react @emotion/styled --legacy-peer-deps
 
 npm install @mui/icons-material
 
